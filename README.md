@@ -1,0 +1,1 @@
+Mercator projection of Indian states with the state of Jammu and Kashmir conforming to official guidelines. The state map of India is from [Natural Earth](http://www.naturalearthdata.com) while the disputed areas of Jammu and Kashmir have been merged from other maps at the same site.
